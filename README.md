@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me by gmail(bullhunter6@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love ai intellegence but i hate robotics
+- ⚡ Fun fact: i love ai intelligence but i hate robotics
 
 <!---
 bullhunter6/bullhunter6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
